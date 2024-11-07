@@ -1,3 +1,3 @@
 [flake8]
-max-line-length = 79  # Максимальная длина строки
-exclude = __init__.py  # Исключите файлы, если это необходимо
+max-line-length = 79 
+exclude = __init__.py  
